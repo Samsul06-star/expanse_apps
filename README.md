@@ -15,19 +15,19 @@ Aplikasi ini dibuat untuk mempermudah proses pencatatan pengeluaran dan pemasuka
 
 | Login | Register |
 |-------|-------|
-| ![](assets/readme/login.png) | ![](assets/readme/regist.png) |
+| ![](expense_uangku/assets/readme/login.png) | ![](expense_uangku/assets/readme/regist.png) |
 
 | Analytic | Add Expanses |
 |--------|--------------|
-| ![](assets/readme/analytic.png) | ![](assets/readme/add.png) |
+| ![](expense_uangku/assets/readme/analytic.png) | ![](expense_uangku/assets/readme/add.png) |
 
 | Home | Setting |
 |---------|------|
-| ![](assets/readme/home.png) | ![](assets/readme/setting.png) |
+| ![](expense_uangku/assets/readme/home.png) | ![](expense_uangku/assets/readme/setting.png) |
 
 | view all | 
 |---------|
-| ![](assets/readme/view_all.png) |
+| ![](expense_uangku/assets/readme/view_all.png) |
 
 
 
